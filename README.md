@@ -27,7 +27,7 @@ Aqui estão algumas coisas sobre mim:
 - 🎮Apaixonado por video-games
 - 💬Me pergunte sobre algo sobre esse ramo
 <br>
-Atualmente no curso estou estudando desenvolvimento de jogos , com foco em **C#**, **Unity** , **JavaScript** , **Unreal** e **Blender**.
+Atualmente no curso estou estudando desenvolvimento de jogos , com foco em C#, Unity , JavaScript , Unreal e Blender.
 
 <div style='display:inline'>
 
