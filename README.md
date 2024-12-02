@@ -24,7 +24,7 @@ Aqui estão algumas coisas sobre mim:
 - 😄Ele/Dele - He/Him
 - 💻 Adoro Tecnologia
 - ⚽Gosto muito de assistir e jogar futebol
-- 🎮Apaixonado por video-games
+- 🎮Apaixonado por videogames
 - 💬Me pergunte sobre algo sobre esse ramo
 <br>
 Atualmente no curso estou estudando desenvolvimento de jogos , com foco em C#, Unity , JavaScript , Unreal e Blender.
