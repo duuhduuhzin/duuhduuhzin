@@ -10,7 +10,7 @@ Sobre mim
 ⚽ Fora do código: futebol, videogames e tecnologia em geral
 
 
-Tecnologias que trabalho
+Tecnologias
 <div style='display:inline'>
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -20,7 +20,7 @@ Tecnologias que trabalho
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
 
-Aprendendo agora
+Aprendendo 
 <div style='display:inline'>
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
