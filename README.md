@@ -4,11 +4,12 @@ Sou desenvolvedor com foco em front-end, formado no curso técnico de Programaç
 Sobre mim
 
 💻 Foco em desenvolvimento front-end — HTML, CSS e JavaScript
-🎮 Formado em Programação de Jogos Digitais pela ETEC Avaré
-🏆 TCC concluído — jogo 2D desenvolvido na Unity com toda a programação em C#
-📊 Interesse crescente em dados e como usá-los dentro de produtos digitais
-⚽ Fora do código: futebol, videogames e tecnologia em geral
 
+🎮 Formado em Programação de Jogos Digitais pela ETEC Avaré
+
+🏆 TCC concluído — jogo 2D desenvolvido na Unity com toda a programação em C#
+
+📊 Interesse crescente em dados e como usá-los dentro de produtos digitais
 
 Tecnologias
 <div style='display:inline'>
